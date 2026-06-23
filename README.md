@@ -3,8 +3,7 @@
 A production-pattern 3-tier infrastructure deployed on AWS using modular Terraform — Application Load Balancer, Auto Scaling Group, and Multi-AZ RDS PostgreSQL, fully isolated across public, private, and data subnets.
 
 ## Architecture
-
-![3-tier AWS architecture](./docs/architecture.svg)
+<img src="./docs/architecture.svg" alt="3-tier AWS architecture" width="700">
 
 The architecture follows AWS's standard 3-tier pattern:
 
